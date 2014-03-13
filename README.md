@@ -52,3 +52,7 @@ var favicon = new FontFavi({
 favicon.update();
 ```
 
+
+## License
+
+MIT: http://ryanwu.mit-license.org
